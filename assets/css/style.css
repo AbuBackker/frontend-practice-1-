@@ -335,21 +335,6 @@
 
 /*  End */
 
-/*  start */
-
-.jumbotron {
-  background-color: #15141a !important;
-}
-.jumbotron .content {
-  font-size: 14px;
-  font-family: "Myriad Pro";
-  color: rgb(68, 67, 72);
-  text-transform: uppercase;
-  line-height: 1.7;
-}
-
-/*  End */
-
 .pricing-item {
   border: 1px solid #ddd;
   text-align: center;
@@ -466,3 +451,28 @@
 .map iframe {
   max-width: 100%;
 }
+
+/*  start */
+
+.jumbotron {
+  background-color: #15141a !important;
+}
+.jumbotron .pb-10 {
+  padding-bottom: 15px;
+}
+.jumbotron .pr-15 {
+  padding-right: 25px;
+  font-size: 20px;
+}
+.jumbotron .colo {
+  color: #007bff;
+}
+.jumbotron .content {
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(68, 67, 72);
+  text-transform: uppercase;
+  line-height: 1.7;
+}
+
+/*  End */
